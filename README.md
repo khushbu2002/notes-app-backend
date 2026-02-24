@@ -23,6 +23,7 @@ integration, validation, and layered architecture.
 - RESTful API design
 - Backend input handling and error scenarios
 - Database persistence using MySQL
+- and many more features are coming 
 
 ---
 
