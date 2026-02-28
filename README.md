@@ -1,5 +1,5 @@
 # Notes App 
-**Notes management + Backend + CRUD + API**
+**Notes management + Backend + CRUD + RestFul API**
 
 A backend-focused REST API built using Java and Spring Boot to manage user notes.
 This project demonstrates backend fundamentals including API design, database
