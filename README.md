@@ -99,6 +99,6 @@ This separation ensures maintainability, scalability, and testability.
 
 ## Author
 
-Khushbu  
+Khushbu K
 Aspiring Backend / Java Developer  
 
