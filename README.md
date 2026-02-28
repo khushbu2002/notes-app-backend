@@ -9,10 +9,11 @@ integration, validation, and layered architecture.
 
 ## Tech Stack
 - Java
-- Spring Boot
+- Spring Boot 
 - MySQL
 - Spring Data JPA
 - Maven
+- Postman
 
 ---
 
