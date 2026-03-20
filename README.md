@@ -69,11 +69,11 @@ This separation ensures maintainability, scalability, and testability.
 
 ## How to Run Locally
 
-1. Clone the repository  
+1. Clone the repository 
 2. Configure MySQL credentials in `application.properties`  
 3. Create a database named `notes_db`  
 4. Run the Spring Boot application  
-5. Test APIs using Postman or any REST client  
+5. Test APIs using Postman or any REST client and you're ready to go  
 
 ---
 
