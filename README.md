@@ -14,6 +14,7 @@ integration, validation, and layered architecture.
 - Spring Data JPA
 - Maven
 - Postman
+- Rest API
 
 ---
 
