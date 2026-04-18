@@ -3,7 +3,7 @@
 
 A backend-focused REST API built using Java and Spring Boot to manage user notes.
 This project demonstrates backend fundamentals including API design, database
-integration, validation, and layered architecture. .
+integration, validation, and layered architecture. 
 
 currently explore more ways to make this app better.
 
