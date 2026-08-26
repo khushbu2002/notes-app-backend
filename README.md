@@ -39,7 +39,7 @@ currently explore more ways to make this app better.
 | POST | /api/notes      | Create a new note      |
 | DELETE | /api/notes/{id} | Delete note by ID     |
 
----
+----
 
 ## Project Architecture
 
